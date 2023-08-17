@@ -1,1 +1,1 @@
-# -Study-of-tradeoff-methods-for-multi-fidelity-datasets
+# Study of tradeoff methods for multi-fidelity datasets
