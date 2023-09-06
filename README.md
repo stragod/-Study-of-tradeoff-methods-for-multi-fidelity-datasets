@@ -11,3 +11,6 @@ The core strength of multi-fidelity modelling lies in its ability to synergize v
 
 #### Dataset
 The dataset used in this project is qm7b.json, which is available for public download at https://figshare.com/articles/dataset/Learning_Properties_of_Ordered_and_Disordered_Materials_from_Multi-fidelity_Data/13040330
+
+#### information
+The codes used in this repository are the work done for my masters thesis. Please refer to the thesis for further details. They contain the codes to each of the chapters written in my thesis
