@@ -1,1 +1,4 @@
+The multifidelity.py script contains the multifidelity model employed using the gradient booster regressor and the discrepancy model.
+
+The predicting atomization energy.py contains the single fidelity atomizaiton energy predictions.
 
